@@ -20,7 +20,7 @@
 
 1. Know who to contact for help
 2. Check the conference map for important locations like bathrooms, quiet room, prayer room, First Aid, etc. 
-3. Don't be afraid to miss a block of talks to take a break and process
+3. Know your limits. Don't be afraid to miss a block of talks to take a break and process.
 
 ##How Can Attendees/Staff Help Each Other Stay Well
 
