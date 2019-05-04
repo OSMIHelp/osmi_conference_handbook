@@ -7,7 +7,6 @@
 3. Eat
 4. Wash your hands
 
-
 ##How Can Employees Working at a Conference Stay Well?
 
 1. Know who to contact for help
