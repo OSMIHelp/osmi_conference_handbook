@@ -7,7 +7,6 @@
 3. Eat
 4. Wash your hands
 
-
 ##How Can Employees Working at a Conference Stay Well?
 
 1. Know who to contact for help
@@ -20,14 +19,13 @@
 
 1. Know who to contact for help
 2. Check the conference map for important locations like bathrooms, quiet room, prayer room, First Aid, etc. 
-3. Don't be afraid to miss a block of talks to take a break and process
+3. Know your limits. Don't be afraid to miss a block of talks to take a break and process.
 
 ##How Can Attendees/Staff Help Each Other Stay Well
 
 1. Be polite to each other
 2. Watch for signs of distress in other people
 3. Use the Pac-man Rule to make conversation groups inclusive
-4. Ask how people are doing
-5. Have signs up notifying everyone of the services available
-6. Have signs up reminding people to care for their mental health while at the conference (and in the rest of their lives)
+4. Have signs up notifying everyone of the services available and reminding people to care for their mental health while at the conference (and in the rest of their lives)
+5. Ask how people are doing
 
