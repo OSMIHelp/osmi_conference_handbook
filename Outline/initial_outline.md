@@ -26,7 +26,6 @@
 1. Be polite to each other
 2. Watch for signs of distress in other people
 3. Use the Pac-man Rule to make conversation groups inclusive
-4. Ask how people are doing
-5. Have signs up notifying everyone of the services available
-6. Have signs up reminding people to care for their mental health while at the conference (and in the rest of their lives)
+4. Have signs up notifying everyone of the services available and reminding people to care for their mental health while at the conference (and in the rest of their lives)
+5. Ask how people are doing
 

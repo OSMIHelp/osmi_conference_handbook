@@ -14,7 +14,14 @@ The conference may have a Code of Conduct in place. A Code of Conduct is a docum
 
 If you are attending a conference outside of your local area, especially if it is in another country or area you are not familiar with, check the city or country's website to find out how to contact the local authorities, police, and ambulance/first responders. The venue or conference staff will also be able to tell you how to contact the local emergency services.
 
+##Crisis Services
 
+Your first contact in an emergency should be 911. If you are not sure if it is an emergency, you can contact a crisis line for help. The National Suicide Prevention Lifeline has trained crisis counselors standing by 24/7. They can be reached at 800-273-TALK (8255). You can learn more about their services on their website:
+[http://www.suicidepreventionlifeline.org/](http://www.suicidepreventionlifeline.org/) 
+
+##NAMI HelpLine
+
+The National Alliance on Mental Illness (NAMI) has a help line that can be reached Monday through Friday, 10:00am – 6:00pm Eastern Time at 1-800-950-NAMI (6264) or at info@nami.org. The NAMI HelpLine can give you information on symptoms, treatment options, and helping yourself and others get treatment. 
 
 
 
