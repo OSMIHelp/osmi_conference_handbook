@@ -23,5 +23,8 @@ Your first contact in an emergency should be 911. If you are not sure if it is a
 
 The National Alliance on Mental Illness (NAMI) has a help line that can be reached Monday through Friday, 10:00am – 6:00pm Eastern Time at 1-800-950-NAMI (6264) or at info@nami.org. The NAMI HelpLine can give you information on symptoms, treatment options, and helping yourself and others get treatment. 
 
+##OSMI Resources
+
+The Open Sourcing Mental Illness (OSMI) website has a Resources section with links and information on many crisis and help lines as well as organizations that provide education and training on mental health topics. The Resources section also contains links to handbooks to help employers and employees know their rights and create a more welcoming and supportive work environment for everyone. Visit [https://osmihelp.org/](https://osmihelp.org/) and click on "Resources".
 
 
