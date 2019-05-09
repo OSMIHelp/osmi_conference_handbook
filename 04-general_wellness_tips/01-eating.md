@@ -2,7 +2,7 @@
 
 One of the first things to go to the wayside, whether you are a speaker, attendee, sponsor, volunteer, or organizer is food. "I'll grab something later" or "I don't have time for a meal" is a sure path to physical illness and a general inability to function at your highest level.
 
-## Eat Meals
+## Eat Proper Meals
 
 Many people think they might be able to get away with a quick bag of crisps or a little snack and be fine, others may try a liquid diet - coffee and water, coffee and water. Neither of these would be the way we eat at home or in the office, why would eat that way at conference?
 
