@@ -1,4 +1,4 @@
-#Make Conversations Inclusive   
+#The Pac-man Rule - Making Conversations Inclusive   
 
 When you walk into a conference, it can take you back to your childhood days of trying to find a place to fit in. People may have come with co-workers and already know people in the room to talk to. Some are attending solo and may not know anyone in the room. When you are having a conversation, you can make it easy for a new person to join your conversation by leaving a gap in your circle. This is referred to as The Pac-man Rule as the shape of your group should resemble a circle with a piece missing, like the shape of the classic video game character.
 

@@ -7,6 +7,7 @@ Knowing the layout of the venue and the location of key rooms and facilities can
 - Party or Social Locations for the Conference
 - Bathrooms
 - First Aid
+- The OSMI Booth
 
 ##Quiet Room
 
