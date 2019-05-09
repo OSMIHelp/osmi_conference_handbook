@@ -6,7 +6,7 @@ Part of your physical well-being is working against the pathogens and illnesses 
 
 ## Wash Those Hands
 
-The number one step to avoiding picking up "conference crud" is to wash your hands. Research has found the number of dirt and germs that can be passed throughsimple hand contact is significant. Washing one's hands often can prevent a multitude of issues and help you prevent passing anything on to others.
+The number one step to avoiding picking up "conference crud" is to wash your hands. Research has found the number of dirt and germs that can be passed through simple hand contact is significant. Washing one's hands often can prevent a multitude of issues and help you prevent passing anything on to others.
 
 Hand sanitizer can be used in a pinch, but it is a stop gap. Using water and soap is the best method to ensure your hands are clean. Don't skimp on the soap and make sure to dry your hands when you are finished.
 
