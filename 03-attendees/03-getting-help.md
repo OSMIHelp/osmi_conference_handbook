@@ -22,8 +22,11 @@ If you are attending a conference outside of your local area, especially if it i
 
 ##Crisis Services
 
-Your first contact in an emergency should be 112. If you are not sure if it is an emergency, you can contact a crisis line for help. The National Suicide Prevention Lifeline has trained crisis counselors standing by 24/7. They can be reached at 800-273-TALK (8255). You can learn more about their services on their website:
-[http://www.suicidepreventionlifeline.org/](http://www.suicidepreventionlifeline.org/) 
+Your first contact in an emergency should be 112. If you are not sure if it is an emergency, you can contact a crisis line for help. Here are three websites that list international crisis help centers so you can find one in your country or that speaks your language. They are labeled as suicide crisis lines, but they are available to help with any mental health crisis.
+
+- Wikipedia’s List of Suicide Crisis Lines: [https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)
+- Suicide.org’s List of International Suicide Hotlines: [http://www.suicide.org/international-suicide-hotlines.html](http://www.suicide.org/international-suicide-hotlines.html)
+- The International Bipolar Foundation’s List of International Suicide Hotlines: [https://ibpf.org/resource/list-international-suicide-hotlines](https://ibpf.org/resource/list-international-suicide-hotlines)
 
 ##OSMI Resources
 
