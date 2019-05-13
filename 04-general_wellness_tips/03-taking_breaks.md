@@ -14,7 +14,7 @@ So, take a walk outside...carefully. Make sure you are familiar with the area an
 
 ## Going It Alone
 
-Part of the point of these breaks is to mitigate the constant flow of interaction inherent in conversations and sessions at the conference. It's okay to take a personal moment. As an attendee, it is not reasonable to expect you will attend every session, be at every hack group, and every evening event.
+Part of the point of these breaks is to mitigate the constant flow of interaction inherent in conversations and sessions at the conference. It's okay to take a personal moment. As an attendee, it is not reasonable to expect you will attend every session, be at workshop, and every evening event.
 
 Getting away from people for a bit to process what you are learning and sharing is a good way to give context to what you are taking in.
 
