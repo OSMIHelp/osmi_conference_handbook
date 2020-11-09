@@ -1,20 +1,20 @@
 # Keeping it Clean
 
-We've mentioned a few times how conferences and events can lead to more interaction than one is accustomed to. This can mean many cultural norms involving physical contact are observed, from handshakes to hugs to other appropriate forms of contact.
-
-Part of your physical well-being is working against the pathogens and illnesses any large group of people may be passing around. There are simple methods to keep healthy and a few more advanced ones to make sure you aren't the passer or the receiver.
+Part of moving to a virtual environment for a conference is the need to minimize contact. While this means an easy avoidance of outside pathogens, there should still be an emphasis on self-care and keeping clean while at home.
 
 ## Wash Those Hands
 
-The number one step to avoiding picking up "conference crud" is to wash your hands. Research has found the number of dirt and germs that can be passed through simple hand contact is significant. Washing one's hands often can prevent a multitude of issues and help you prevent passing anything on to others.
+Research has found the number of dirt and germs that can be passed through simple hand contact is significant. Washing one's hands often can prevent a multitude of issues and help you prevent passing anything on to others.
 
-Hand sanitizer can be used in a pinch, but it is a stop gap. Using water and soap is the best method to ensure your hands are clean. Don't skimp on the soap and make sure to dry your hands when you are finished.
+This may not seem as obvious when at home, but making washing your hands for at least 20 seconds regularly through out your day can help to keep your work environment clean and your virtual conference environment clean.
 
 ## General Hygiene
 
-Keeping clean isn't just for hands! Often, events and conferences take place with many people milling about and interacting. To ensure the environment is pleasant, make sure to maintain good hygiene habits.
+Keeping clean isn't just for hands! Showering and keeping clean while attending a conference (or working from hom in general) can often help to keep you feeling fresh and alert. Taking a quick shower or rinse between sessions or as a break can also help to break up the virtual experience and bring you to your next session feeling refreshed and relaxed.
 
-It's not always easy to maintain the environment at a venue. It can hot or cold, it could make you sweaty one minute, then cold the next. If you are someone who perspires frequently, consider stepping away to clean up or carrying some personal care products so you will have one less thing to worry about.
+## Cleaning Your Equipment
+
+While a virtual event means you won't be shaking hands, you will likely be doing a good deal of typing and clicking. Make sure to keep your keyboard and mouse clean. Wipe them down regularly even if you are the only person to use them and the only person in your home workspace. 
 
 ## Conclusion
 
