@@ -10,7 +10,7 @@ This may not seem as obvious when at home, but making washing your hands for at 
 
 ## General Hygiene
 
-Keeping clean isn't just for hands! Showering and keeping clean while attending a conference (or working from hom in general) can often help to keep you feeling fresh and alert. Taking a quick shower or rinse between sessions or as a break can also help to break up the virtual experience and bring you to your next session feeling refreshed and relaxed.
+Keeping clean isn't just for hands! Showering and keeping clean while attending a conference (or working from home in general) can often help to keep you feeling fresh and alert. Taking a quick shower or rinse between sessions or as a break can also help to break up the virtual experience and bring you to your next session feeling refreshed and relaxed.
 
 ## Cleaning Your Equipment
 
