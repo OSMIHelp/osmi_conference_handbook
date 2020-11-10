@@ -16,7 +16,7 @@ While a long day at a conference can reasonably lead to a headache, watch for an
 
 ##Response Do's and Do Not's
 
-If you see recognize that someone is struggling with a mental health issue, here are some things you should do or do not do to help them:
+If you recognize that someone is struggling with a mental health issue, here are some things you should do, or not do, to help them:
 
 *Do* ask the person if they are alright and if they need anything.
 *Do not* tell them to "Snap out of it." or "Get over it."
