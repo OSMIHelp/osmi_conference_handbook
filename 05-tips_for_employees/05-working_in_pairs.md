@@ -1,6 +1,6 @@
 # Don't Go It Alone
 
-Most times, as a vendor, sponsor, organizer, or volunteer you are not alone at the conference or event. While the immediate benefit is meeting new people and being part of a wonderful community, a secondary benefit is the ability to partner up during an event and having a go to person.
+Most times, as a vendor, sponsor, organizer, or volunteer you are not alone at the conference or event - even if you are the only person in your home in a virtual event! While the immediate benefit is meeting new people and being part of a wonderful community, a secondary benefit is the ability to partner up during an event and having a go to person.
 
 ## Work In pairs
 
