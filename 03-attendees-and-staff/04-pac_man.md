@@ -1,0 +1,11 @@
+#Making Conversations Inclusive
+
+When you sign on to a virtual conference, it can be very easy to hide in the background. People may have co-workers or may already know people in the chat/virtual talk room, but many may be attending solo and may not know anyone. When you are having a conversation, you can make it easy for a new person to join your conversation by posing questions to the group at large to entice more people to contribute to the conversation. You can also see who has not spoken in a while (or at all) and ask a question directly of that person to help them get started in the conversation. This way, someone does not have to interrupt the conversation to join in, they are responding to an indirect invitation to speak.
+
+If you are in a smaller group, you can use the gallery view in the chat so you can see everyone at once so you can see if there is someone who is paying attention to the conversation but has not gotten a chance to speak. It is also good to keep an eye on mute symbols. If someone unmutes and then re-mutes themselves, it may mean that they want to say something, but didn't feel like they had the chance to do so. Many people will be very hesitant to interrupt someone else who is speaking, and with delays in video/audio, it can be very difficult to tell when it is safe to speak with speaking over the top of someone else. You can then ask them a question directly to give them a more comfortable opening to speak.
+
+If you are in a large group, watching the mute symbols and seeing everyone in gallery view will not be possible. In this case, you can pose a question and then choose two or three names to call out for responses. It is not a good idea to call out one single person in a large group as this really puts someone on the spot who may not be comfortable with it. By asking your question and then asking several people at once what they think, it gives people an easy out if they don't wish to speak, but gives them a more specific invite to participate in the conversation.
+
+For very large groups, you can try to separate people out into smaller groups by having breakout rooms on specific topics or by asking a group of people to respond, like everyone whose name begins with the letter L, etc.
+
+The important thing to watch in all of these cases is that the conversation is not being dominated by just a few voices.
