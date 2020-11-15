@@ -25,7 +25,7 @@ If you recognize that someone is struggling with a mental health issue, here are
 *Do not* hesitate to call emergency services if someone is in danger.
 
 *Do* tell a conference staff member what you have noticed. If you know someone who is close to the person in distress, it is good to let them know as well so they can help support the person.
-*Do not* post the information to social media or discuss it with the other conference attendees. 
+*Do not* post the information to social media or discuss it with the other conference attendees.
 
 *Do* check in with them again later to see if things have improved or if there is anything they need now.
 *Do not* give them a treatment plan to follow. Ask them what they need, but do not tell them what they need to do.

@@ -1,4 +1,4 @@
-# Know Your Limits While Challenging Yourself
+#Know Your Limits While Challenging Yourself
 
 It's important to know what you can handle and what will make you uncomfortable. While you are attending the conference, make sure you respect your limits to keep yourself in a healthy state. However, don't let your insecurities mask themselves as limits. Make sure you challenge yourself to meet new people, learn new things, and step outside your comfort zone when and where you feel safe doing so.
 

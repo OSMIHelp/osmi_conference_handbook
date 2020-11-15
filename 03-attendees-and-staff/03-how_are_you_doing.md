@@ -1,4 +1,4 @@
-#How Are You Doing?
+##How Are You Doing?
 
 "How are you doing?" These four simple words can have a large impact on someone struggling with a mental health issue. It shows that you notice that person and are interested in their well-being. Many times, people will simply respond with "Fine." If you feel like someone is not being forthcoming with their answer, you can follow up with another question to try to get beyond the standard, polite responses. Use a question that is more action focused, like "Is there anything you need?", "Are all of your needs being met?", or "Is there anything I can help you find?"
 

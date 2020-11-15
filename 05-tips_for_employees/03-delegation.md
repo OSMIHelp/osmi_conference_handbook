@@ -1,4 +1,4 @@
-# Delegate to Those Willing to Help
+#Delegate to Those Willing to Help
 
 While all the suggestions we have laid out in this section are important, the most important thing is to not burn out by taking all these things upon yourself. Your team needs to be willing and able to take on some of the work.
 

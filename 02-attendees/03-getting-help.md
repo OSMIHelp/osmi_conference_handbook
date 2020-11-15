@@ -1,4 +1,4 @@
-# Know How to Get Help
+#Know How to Get Help
 
 Conferences are great places for learning and networking, but at some point, you may need something, and it's really important to know where you can go to get what you need.
 
@@ -14,11 +14,9 @@ The conference may have a Code of Conduct in place. A Code of Conduct is a docum
 
 Your first contact in an emergency should be 911. If you are not sure if it is an emergency, you can contact a crisis line for help. Here are three websites that list international crisis help centers so you can find one in your country or that speaks your language. They are labeled as suicide crisis lines, but they are available to help with any mental health crisis.
 
-- Wikipedia’s List of Suicide Crisis Lines: [https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)
-- Suicide.org’s List of International Suicide Hotlines: [http://www.suicide.org/international-suicide-hotlines.html](http://www.suicide.org/international-suicide-hotlines.html)
+- Wikipedia's List of Suicide Crisis Lines: [https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)
+- Suicide.org's List of International Suicide Hotlines: [http://www.suicide.org/international-suicide-hotlines.html](http://www.suicide.org/international-suicide-hotlines.html)
 
 ##OSMI Resources
 
 The Open Sourcing Mental Illness (OSMI) website has a Resources section with links and information on many crisis and help lines as well as organizations that provide education and training on mental health topics. The Resources section also contains links to handbooks to help employers and employees know their rights and create a more welcoming and supportive work environment for everyone. Visit [https://osmihelp.org/](https://osmihelp.org/) and click on "Resources".
-
-

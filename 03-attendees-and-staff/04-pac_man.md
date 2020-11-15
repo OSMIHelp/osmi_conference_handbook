@@ -1,4 +1,4 @@
-#Making Conversations Inclusive
+##Making Conversations Inclusive
 
 When you sign on to a virtual conference, it can be very easy to hide in the background. People may have co-workers or may already know people in the chat/virtual talk room, but many may be attending solo and may not know anyone. When you are having a conversation, you can make it easy for a new person to join your conversation by posing questions to the group at large to entice more people to contribute to the conversation. You can also see who has not spoken in a while (or at all) and ask a question directly of that person to help them get started in the conversation. This way, someone does not have to interrupt the conversation to join in, they are responding to an indirect invitation to speak.
 
